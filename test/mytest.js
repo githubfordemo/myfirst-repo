@@ -5,5 +5,6 @@ describe("demo test", function () {
         var arr = [3, 3, 4]
         expect(arr.length).to.be.equal(3);
         expect(arr.length).to.be.at.least(1);
-    });
+});
+this is changed from webstorme.
 });
